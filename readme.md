@@ -8,7 +8,7 @@ where we can : <br> <br>
     **3. Integrate personalized product recommendations with respective rack numbers** <br><br>
     **4. Generate bill remotely from the trolley in PDF format and send to customer's whatsapp after checkout** <br><br>
 
-## Trolley Movement ✅
+## Trolley Movement 
 
 - BLE enabled ESP 32 is used as Bluetooth Beacon. This will be present remotely in the hands of the customer. This beacon will send BLE signals to the Raspberry to detect the proximity of the customer.
 
@@ -29,7 +29,7 @@ where we can : <br> <br>
 
 - This movement logic works well in ideal scenarios.
 
-## RFID Scanning ✅ 
+## RFID Scanning 
 
 - 13MHz RFID cards are used for User and product scanning.
 
@@ -43,7 +43,7 @@ where we can : <br> <br>
 
 **Checkout RFID** : Calculates bill & sends bill alerts to customer.
 
-## Recommendation System ✅
+## Recommendation System 
 
 **Hybrid algorithm - Combination of Apriori and Random Forest.**
 
@@ -61,7 +61,7 @@ where we can : <br> <br>
     **Bread-A1** <br><br>
     **Butter-B3**
 
-## Bill Alerts To Customer's WhatsApp ✅ 
+## Bill Alerts To Customer's WhatsApp 
 
 - Once the checkout card is scanned, Purchase bill is generated in PDF format and stored locally.
 
