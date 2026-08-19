@@ -1,5 +1,8 @@
 # ML Powered Smart Trolley System with Hybrid Recommendation System and Bill Alerts
 
+**RESEARCH PAPER - IEEE XPLORE LINK** - https://ieeexplore.ieee.org/document/11565031
+#### The research paper pdf is attached in this github repo.
+
 - This project aims to enhance the user experience in the Retail environments by automating product purchase methods.
 - Smart trolley is the main logic of this project where the retail store trolleys are converted into smart component, 
 where we can : <br> <br>
